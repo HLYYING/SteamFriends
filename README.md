@@ -48,4 +48,4 @@
 | ![](https://avatars.steamstatic.com/39548b2a6d88191f3ddd2e7482779e5c2dce3082.jpg) | 晨°                   | [76561198308597928](https://steamcommunity.com/profiles/76561198308597928/) | ✅           | 2017-09-27 07:08:11 |          |
 | ![](https://avatars.steamstatic.com/9c5e128fa63cb895d325b32b6da7b56930600ed1.jpg) | ChisatoAya           | [76561198117258864](https://steamcommunity.com/profiles/76561198117258864/) | ✅           | 2018-02-20 10:45:57 |          |
 | ![](https://avatars.steamstatic.com/d0a7c0b7bced765cbbb95d9d6825d356015e631c.jpg) | Kattou               | [76561198285260983](https://steamcommunity.com/profiles/76561198285260983/) | ✅           | 2017-10-19 12:50:23 |          |
-| ![](https://avatars.steamstatic.com/93ed681bbee49f0c115f00785650537802c3919c.jpg) | nod for a girlfriend | [76561199073663218](https://steamcommunity.com/profiles/76561199073663218/) | ✅           | 2021-09-22 00:01:58 |          |
+| ![](https://avatars.steamstatic.com/d1bbe086cca695bf3859bc0d7701547fd03ed4dc.jpg) | nod for a girlfriend | [76561199073663218](https://steamcommunity.com/profiles/76561199073663218/) | ✅           | 2021-09-22 00:01:58 |          |
