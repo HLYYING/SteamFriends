@@ -51,4 +51,4 @@
 | ![](https://avatars.steamstatic.com/9e98946923bb8d596afe80a6108398db9ebc7916.jpg) | nod for a girlfriend | [76561199073663218](https://steamcommunity.com/profiles/76561199073663218/) | ✅           | 2021-09-22 00:01:58 |          |
 | ![](https://avatars.steamstatic.com/6f7b7ec48409ffef2aa7a5aff0c149e39270a70e.jpg) | 长夜星火                 | [76561198988350606](https://steamcommunity.com/profiles/76561198988350606/) | ✅           | 2024-12-01 05:46:39 |          |
 | ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | 梦                    | [76561199820545935](https://steamcommunity.com/profiles/76561199820545935/) | ✅           | 2025-01-26 08:17:38 |          |
-| ![](https://avatars.steamstatic.com/738345e90541ec9e092fdad6321ae639eed49e4b.jpg) | 没那个技术别学别人roll        | [76561199400481186](https://steamcommunity.com/profiles/76561199400481186/) | ✅           | 2025-02-15 03:34:53 |          |
+| ![](https://avatars.steamstatic.com/738345e90541ec9e092fdad6321ae639eed49e4b.jpg) | 一号房                  | [76561199400481186](https://steamcommunity.com/profiles/76561199400481186/) | ✅           | 2025-02-15 03:34:53 |          |
