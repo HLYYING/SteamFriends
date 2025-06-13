@@ -53,3 +53,4 @@
 | ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | 梦             | [76561199820545935](https://steamcommunity.com/profiles/76561199820545935/) | ✅           | 2025-01-26 08:17:38 |          |
 | ![](https://avatars.steamstatic.com/738345e90541ec9e092fdad6321ae639eed49e4b.jpg) | 一号房           | [76561199400481186](https://steamcommunity.com/profiles/76561199400481186/) | ✅           | 2025-02-15 03:34:53 |          |
 | ![](https://avatars.steamstatic.com/52d9d1fbc89b97c7601ec67cc2ed3e697f5623dd.jpg) | 屠涅            | [76561199771425050](https://steamcommunity.com/profiles/76561199771425050/) | ✅           | 2025-03-30 13:01:20 |          |
+| ![](https://avatars.steamstatic.com/e1f4e08a72ab4064f57d249c4a843e58bee2425a.jpg) | BahoBisong    | [76561199541731501](https://steamcommunity.com/profiles/76561199541731501/) | ✅           | 2025-06-13 00:09:29 |          |
