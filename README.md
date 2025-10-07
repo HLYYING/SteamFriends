@@ -55,3 +55,4 @@
 | ![](https://avatars.steamstatic.com/52d9d1fbc89b97c7601ec67cc2ed3e697f5623dd.jpg) | 屠涅            | [76561199771425050](https://steamcommunity.com/profiles/76561199771425050/) | ✅           | 2025-03-30 13:01:20 |          |
 | ![](https://avatars.steamstatic.com/e1f4e08a72ab4064f57d249c4a843e58bee2425a.jpg) | BahoBisong    | [76561199541731501](https://steamcommunity.com/profiles/76561199541731501/) | ❌           | 2025-06-13 00:09:29 |          |
 | ![](https://avatars.steamstatic.com/d20b67b8aded4d35a406116b98ba3f3172417271.jpg) | 世羽            | [76561199262008160](https://steamcommunity.com/profiles/76561199262008160/) | ✅           | 2025-10-04 11:41:07 |          |
+| ![](https://avatars.steamstatic.com/a24980ecfc5dea2b044e9d99a28ad07eb238dabe.jpg) | 与光同尘          | [76561199400127866](https://steamcommunity.com/profiles/76561199400127866/) | ✅           | 2025-10-06 02:21:27 |          |
